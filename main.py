@@ -1,7 +1,2 @@
-print('Hello Barcelona')
-print(7//2)
-x='Visca'
-y='Barca'
-z='Siempre'
-print(f'{x}{y}{z}')
-print('Hello Git')
+gg='I wanna escape the matrix '
+print(f'{gg} and be free')
